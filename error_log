@@ -1,0 +1,8 @@
+[24-Mar-2018 20:18:34 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:19:05 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:19:14 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:21:55 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:22:14 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:22:27 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:25:03 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 56
+[24-Mar-2018 20:26:25 UTC] PHP Fatal error:  Cannot redeclare Pos::loginMobile() in /home/baappay/public_html/pos/webservice/Pos.php on line 59
